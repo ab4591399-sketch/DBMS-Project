@@ -1,1 +1,1 @@
-# DBMS-Project
+# DBMS-Project Jewellery Management System
